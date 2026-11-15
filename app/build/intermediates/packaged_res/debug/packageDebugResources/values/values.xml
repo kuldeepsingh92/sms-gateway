@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Gateway</string>
+    <string name="channel_description">Notifies that the local SMS HTTP server is active</string>
+    <string name="channel_name">SMS Gateway Server</string>
+</resources>
